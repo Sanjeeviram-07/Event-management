@@ -12,7 +12,7 @@ Next.js frontend for an Event Management System. This is a statically exported a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/event-management.git
+   git clone https://github.com/sanjeeviram-07/Event-management.git
    cd event-management/client
 Install dependencies:
 
